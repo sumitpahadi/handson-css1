@@ -1,0 +1,44 @@
+h1{
+    color: red;
+}
+h2{
+    color: red;
+    font-style: italic ;
+}
+.c1{
+    text-decoration: line-through;
+    font-weight: bold;
+
+}
+.c2{
+background-color: yellow;
+font-weight: bold;
+}
+.c3{
+    font-style: italic;
+}
+.container0{
+    line-height: 40px;
+    color: maroon;
+}
+.c4{
+    background-color: yellow;
+    font-weight: bold;
+}
+.container1{
+    letter-spacing: 5px;
+    line-height: 25px;
+    color: maroon;
+}
+p{
+    color: maroon;
+
+}
+a{
+    background-color: yellow;
+    font-style: italic;
+    color: red;
+    font-weight: bold;  
+    text-decoration: none;
+
+}
